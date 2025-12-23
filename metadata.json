@@ -1,0 +1,7 @@
+{
+  "name": "PharmaPresent Pro",
+  "description": "A high-end pharmaceutical presentation tool for sales representatives to manage doctors, brand materials (Images/PDFs), and create custom ordered slideshows for promotion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
